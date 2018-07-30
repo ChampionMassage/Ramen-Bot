@@ -1,0 +1,31 @@
+_**Fun:**_
+8ball - >8ball <Question>   Answers a Question
+
+_**Mod:**_
+
+Addrole - >addrole @<Username> (Name of role) Gives a role to a specified user
+Removerole - >removerole @<Username> (Name of role) Removes a role to a specified user
+Ban - >ban @<Username> (Reason) Bans a user
+Clear - >clear (Amt of messages) Clears Messages
+Kick - >kick @<Username> (Reason) Kicks a user
+Report - >report @<Username> (Reason) Reports a User
+Warn - >warn @<Username> (Reason) Warns a user (1st warn Warning 2nd Mute 3rd Kick)
+Say - >say (What you want the bot to say) Make the bot say somthing
+Tempmute - >tempmute @<Username> (Miniutes EX: 1m , 2m ,30m)
+Warnlevel - >warnlevel @<Username> Shows how many warning a user has
+
+_**Currency:**_
+
+Pay - >pay @<Username> <amt> Pays a user an amount of coins
+Coins - >coins Shows the amount of coins you have
+ 
+_**Info:**_
+
+Botinfo - >botinfo Shows info about the bot
+Serverinfo - >serverinfo Shows info about the server
+Help - >help Shows this embed
+
+_**XP:**_
+Level - >level  Shows which level are you in
+-----------------------------------------------------
+
